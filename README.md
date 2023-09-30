@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently in my final year<br>I am learning Web dev
+🎓 Final year vibes! Almost there!<br>
+💻 Learning web development is super cool!<br>
+🌐 Web dev skills will open many doors for you.<br>
+📚 Don't forget to enjoy the learning process!<br>
+🤓 I am excellent at Excel too! Spreadsheets are my jam.<br>
+🏫 Studying at Techno Main must be a great experience!<br>
 
 
 ## 🌐 Socials:
